@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "98B6652B-CA92-4EF1-9675-00FDC220D1D2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "816435A9-BF3C-49A1-AA22-9C1A069D8036"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "getLocations(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52AC6FB4-7FC4-4F48-9928-8046381602DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "getLocations(complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52AC6FB4-7FC4-4F48-9928-8046381602DF - de278fb3a50cd365"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in CoffeeBean.MainListNetworkManager.getLocations(complition: (Swift.Array&lt;CoffeeBean.LocationModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "52AC6FB4-7FC4-4F48-9928-8046381602DF - de278fb3a50cd304"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in CoffeeBean.MainListNetworkManager.getLocations(complition: (Swift.Array&lt;CoffeeBean.LocationModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1992">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4DF1464-9FBB-424E-A429-44D8EE0DCD0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getLocations(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA52079C-4E53-46CE-A70C-BAAFF41C9B1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getLocations(complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA52079C-4E53-46CE-A70C-BAAFF41C9B1C - de278fb3a50cd34a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in CoffeeBean.MainListNetworkManager.getLocations(complition: (Swift.Array&lt;CoffeeBean.LocationModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1544">
+               </Location>
+               <Location
+                  uuid = "CA52079C-4E53-46CE-A70C-BAAFF41C9B1C - de278fb3a50cd3ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in CoffeeBean.MainListNetworkManager.getLocations(complition: (Swift.Array&lt;CoffeeBean.LocationModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA76C324-4130-4E95-90CF-BA669734966C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "updateToken(login:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2D73015-C946-400F-BE0E-F7E42DDBB82B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "updateToken(login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2D73015-C946-400F-BE0E-F7E42DDBB82B - c61e37603fbbddee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.MainListNetworkManager.updateToken(login: Swift.String) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "D2D73015-C946-400F-BE0E-F7E42DDBB82B - 599f0d307a4ff571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CoffeeBean.LoginRegResponseModel) -&gt; () in CoffeeBean.MainListNetworkManager.updateToken(login: Swift.String) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "D2D73015-C946-400F-BE0E-F7E42DDBB82B - 599f0d307a4ff571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CoffeeBean.LoginRegResponseModel) -&gt; () in CoffeeBean.MainListNetworkManager.updateToken(login: Swift.String) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36E570A2-076B-401C-929D-02757151417A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/App/KeychainManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "saveToken(token:login:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "584B4BAE-D06F-47E1-ADF5-4837C037D937"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/App/KeychainManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "updateToken(token:login:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "584B4BAE-D06F-47E1-ADF5-4837C037D937 - bb59222b77126ef3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CoffeeBean.KeychainManager.updateToken(token: Foundation.Data, login: Swift.String) throws -&gt; Swift.String"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/App/KeychainManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "584B4BAE-D06F-47E1-ADF5-4837C037D937 - bb59222b77126ed0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CoffeeBean.KeychainManager.updateToken(token: Foundation.Data, login: Swift.String) throws -&gt; Swift.String"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/App/KeychainManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "584B4BAE-D06F-47E1-ADF5-4837C037D937 - bb59222b77126e31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CoffeeBean.KeychainManager.updateToken(token: Foundation.Data, login: Swift.String) throws -&gt; Swift.String"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/App/KeychainManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7897B9D8-1F3E-4D83-82B1-9A0851CC0408"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/MainListModule/MainListNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "updateToken(login:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD6D5F80-59A2-41EC-B6D9-F6D019BA1095"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "register(login:password:repeatPassword:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD6D5F80-59A2-41EC-B6D9-F6D019BA1095 - 7da80ae96225ed31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CoffeeBean.LoginRegResponseModel) -&gt; () in CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "BD6D5F80-59A2-41EC-B6D9-F6D019BA1095 - c4d88bd887c66edd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "BD6D5F80-59A2-41EC-B6D9-F6D019BA1095 - 7da80ae96225ed52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CoffeeBean.LoginRegResponseModel) -&gt; () in CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFEBAD84-75DB-4FC5-8CC7-D7E41FF1C23F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "register(login:password:repeatPassword:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DFEBAD84-75DB-4FC5-8CC7-D7E41FF1C23F - c4d88bd887c66dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "DFEBAD84-75DB-4FC5-8CC7-D7E41FF1C23F - c4d88bd887c66dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C9CD7E3-BB4E-4571-8A4D-45BE9BFDD47D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "register(login:password:repeatPassword:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C9CD7E3-BB4E-4571-8A4D-45BE9BFDD47D - c4d88bd887c66d97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "1C9CD7E3-BB4E-4571-8A4D-45BE9BFDD47D - c4d88bd887c66d97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDF66D25-1733-4D2B-8647-715847B8F142"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "register(login:password:repeatPassword:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDF66D25-1733-4D2B-8647-715847B8F142 - c4d88bd887c66e51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "FDF66D25-1733-4D2B-8647-715847B8F142 - c4d88bd887c66e51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeBean.RegInteractor.register(login: Swift.String, password: Swift.String, repeatPassword: Swift.String, complition: ((status: Swift.Bool, message: Swift.String)) -&gt; ()) -&gt; ()"
+                  moduleName = "CoffeeBean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/CoffeeBean/CoffeeBean/AppModules/RegModule/RegInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
